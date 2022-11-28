@@ -10,6 +10,4 @@
 <img src="https://cswcss-chi-article.github.io/CSWCSS_ChiArticle_Frontend/img/flow.png" >
 
 ---
-PHP乃是神的創造
-<br>
-&copy; 2022 ricehung29
+&copy; 2022 <a href="https://github.com/ricehung29" >ricehung29</a>
